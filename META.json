@@ -1,5 +1,5 @@
 {
-   "abstract" : "unknown",
+   "abstract" : "auto recognize new file and deleted file, and commit those files",
    "author" : [
       "Yuki ANAI <yuki@apple.com>"
    ],
@@ -35,5 +35,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "version" : "0.02"
 }
